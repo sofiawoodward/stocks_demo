@@ -9,6 +9,8 @@ This project involves analyzing and visualizing stock price data using Python. I
 - Identify the lowest stock price in the last 60 days.
 - Generate visualizations for stock price trends over the last 60 days.
 
+![image](https://github.com/sofiawoodward/stocks_demo/assets/166068241/9e5a01eb-e650-49a7-a16a-c58e57c4a430)
+
 ## Getting Started
 ### Prerequisites
 To run this project, you need to have Python installed on your machine along with the following Python libraries:
@@ -18,5 +20,5 @@ To run this project, you need to have Python installed on your machine along wit
 You can install them using pip:
 ```bash
 pip install pandas matplotlib
+```
 
-![image](https://github.com/sofiawoodward/stocks_demo/assets/166068241/9e5a01eb-e650-49a7-a16a-c58e57c4a430)
