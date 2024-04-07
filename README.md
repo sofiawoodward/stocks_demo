@@ -19,3 +19,4 @@ You can install them using pip:
 ```bash
 pip install pandas matplotlib
 
+![image](https://github.com/sofiawoodward/stocks_demo/assets/166068241/9e5a01eb-e650-49a7-a16a-c58e57c4a430)
